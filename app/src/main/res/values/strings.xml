@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Tres En Raya</string>
+    <string name="text1">Turn to play: PLAYER 1</string>
+    <string name="text2">Turn to play: PLAYER 2</string>
+    <string name="frame_taken">Frame already taken!</string>
+    <string name="game_over">GAME OVER!</string>
+    <string name="winner1">PLAYER 1 WINS!</string>
+    <string name="winner2">PLAYER 2 WINS!</string>
 </resources>
